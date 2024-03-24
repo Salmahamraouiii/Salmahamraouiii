@@ -1,11 +1,5 @@
 
 
-
-<div align="left">
-  <img src="https://i.imgur.com/XXXXXXXXX.jpg" alt="Coder Girl" width="300">
-</div>
-
-
 <!-- Banner with motion -->
 <div align="center">
   <h1 style="color:#8a2be2; font-family: 'Arial', sans-serif; font-size: 36px;">Hello there, I'm Salma!</h1>
