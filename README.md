@@ -14,9 +14,9 @@ Hey there! 👋 I'm a 15-year-old Moroccan girl passionate about coding, with a 
 
 Feel free to reach out to me via:
 
-- **Discord:** [YourDiscordUsername](https://discordapp.com/users/your_discord_user_id)
-- **Instagram:** [YourInstagramUsername](https://www.instagram.com/your_instagram_username/)
-- **Email:** [your_email@gmail.com](mailto:your_email@gmail.com)
+- **Discord:** [DatGurlSalma](https://discordapp.com/users/datgurlsalma_00600)
+- **Instagram:** [salma_hm82](https://www.instagram.com/salma_hm82/)
+- **Email:** [salmahamraouiii08@gmail.com](mailto:salmahamraouiii08@gmail.com)
 
 ## 🌱 Currently Learning
 I'm currently focused on learning Python, diving deeper into its various libraries and mastering its fundamentals.
