@@ -1,8 +1,3 @@
-<!-- Coder Girl Image -->
-
-
-
-
 
 
 
