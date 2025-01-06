@@ -8,7 +8,7 @@
 
 # Welcome to My GitHub Profile! 💜
 
-Hey there! 👋 I'm a 15-year-old Moroccan girl passionate about coding, with a knack for Python and a dash of Photoshop skills. Welcome to my little corner of GitHub!
+Hey there! 👋 I'm a 16-year-old Moroccan girl passionate about coding, with a knack for Python and a dash of Photoshop skills. Welcome to my little corner of GitHub!
 
 ## 📫 Contact Me
 
