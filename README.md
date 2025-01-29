@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Salma Hamraoui</h1>
 <h3 align="center"> I'm Salma, a 16-year-old from Morocco who is passionate about programming and robotics. I'm on a journey to become better at Python and explore the exciting world of robotics and technology.</h3>
-<p align="center"><img width="600" src="https://github.com/DexterTaha/DexterTaha/blob/main/Image/Ajouter%20un%20titre%20(3).png"></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dextertaha&label=Profile%20views&color=0e75b6&style=flat" alt="dextertaha" /> </p>
 
