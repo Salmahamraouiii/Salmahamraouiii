@@ -2,7 +2,6 @@
 <h3 align="center"> I'm Salma, a 16-year-old from Morocco who is passionate about programming and robotics. I'm on a journey to become better at Python and explore the exciting world of robotics and technology.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dextertaha&label=Profile%20views&color=0e75b6&style=flat" alt="dextertaha" /> </p>
 
 <p align="left"> <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxNTQ4ODQsIm5iZiI6MTczODE1NDU4NCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI5VDEyNDMwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllOTRmZjgwNTM5YTI5ZmM3NjRiOTljNzZlZjQ0YWMwZjNmZmE1ZDkxMTNlZDMwNWRlMjgxN2Q0ODhmOTEyNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sZGDysn00h3ygmX4q8pFfPupkNOqNlzxxu1EmkHdQJ8" alt="salmahamraoui" /> </p>
 
