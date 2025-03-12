@@ -15,7 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Salmahamraouiii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Cool GIF](https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
