@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Salmahamraouiii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Cool GIF](https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ![Cool GIF](https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE4MTI2MzgsIm5iZiI6MTc0MTgxMjMzOCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEyVDIwNDUzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhYWE1NjY0NzA0NzFmNDJmNzUzYjkzMGY0NjI5ZDI2YjUwZjY2Y2U0MGYwZGY3YTNmYzZkM2EzZjY5NmZlZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JOdqc4zvQ8rbQvwStG6x525A3C2w6bjppT9Z5Ks1oN8)
+
