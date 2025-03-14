@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me <3
 🏫 16yo High school student passionate about robotics, engineering, and programming<br>🤖 First LEGO League & STEAM enthusiast<br>💻 Currently learning Python & Web Development <br>🌍 From Tangier, Morocco<br>
 
 
