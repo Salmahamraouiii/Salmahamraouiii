@@ -1,5 +1,5 @@
 # 💫 About Me <3
-🏫 17yo High school student passionate about robotics, engineering, and programming<br>🤖 First LEGO League & STEAM enthusiast<br>💻 Currently learning Python & Web Development <br>🌍 From Tangier, Morocco<br>
+🏫 17yo High school student passionate about robotics, engineering, and tech <br>🤖 @FIRST Alumni & a STEM enthusiast<br>💻 Currently learning Python & Web Development <br>🌍 From Tangier, Morocco<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-hamraoui-56590b30b/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salma_hm82) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/datgurlsalma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmahamraouiii08@gmail.com) 
