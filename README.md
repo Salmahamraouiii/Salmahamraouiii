@@ -1,4 +1,4 @@
-# 💫 About Me <3
+# 💫 About Me :)
 🏫 17yo High school student passionate about robotics, engineering, and tech <br>🤖 @FIRST Alumni & a STEM enthusiast<br>💻 Currently learning Python & Web Development <br>🌍 From Tangier, Morocco<br>
 
 ## 🌐 Socials:
